@@ -1,0 +1,33 @@
+body { 
+	background: url(./Images/Pictures/17493045_699337273601816_922934395140473102_o.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+a{
+	color:white;
+}
+p{
+  font-size: 4vw;
+  color:white;
+  margin-top: 1%;
+  text-align: center;
+}
+.title{
+  padding:0;
+  margin:0;
+  border-bottom: 1px solid white;
+  margin-bottom: 5%;
+}
+.circle-image{
+  height:auto;
+  width:20%;
+  border-radius: 100%;
+  border:1px solid white;
+}
+.imgsizer{
+  display: inline;
+  margin-left:2%;
+  margin-right: 2%;
+}
+.slogan{
+  margin-top: 10%
+}

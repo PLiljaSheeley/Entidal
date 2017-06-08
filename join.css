@@ -1,0 +1,82 @@
+body { 
+	background: url(./Images/Pictures/16602609_670822673119943_5523541080507329163_n.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+a{
+	color:white;
+}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+.navbar-default .navbar-toggle.collapsed {
+  border: none;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+.navbar li {
+	color: #000 
+} 
+.navbar-header {
+    float: none;
+}
+.navbar-toggle {
+    display: block;
+}
+.navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+}
+.navbar-collapse.collapse {
+    display: none!important;
+}
+.navbar-nav {
+    float: none!important;
+    margin: 7.5px -15px;
+}
+.navbar-nav>li {
+    float: none;
+}
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-collapse.collapse.in {
+	display: block !important;
+	float:none;
+}
+.navbar-default .navbar-collapse, .navbar-default{
+  border-color: transparent;
+  box-shadow: none;
+}
+.joinButton{
+  height:40%;
+  width:20%;
+  margin-top:15%;
+  margin-right: 10%;
+  float:right;
+}
+.joinButton>button{
+  font-size: 2vw;
+  height:100%;
+  width:100%;
+  border: 1px solid black;
+  background-color: transparent;
+  color:white;
+}
+.imageContainer{
+  height:auto;
+  width:40%;
+  position: absolute;
+  right:0;
+}
+img{
+  height:auto;
+  width:100%;
+}
