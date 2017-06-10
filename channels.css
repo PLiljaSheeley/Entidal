@@ -31,10 +31,7 @@ p{
   margin-right: 2%;
 }
 .slogan{
-  position: fixed;
-  top:50%;
-  left:50%;
-  transform: translate(-50%, -50%);
+  position: relative;
 }
 .circle-image-social{
   height:auto;
