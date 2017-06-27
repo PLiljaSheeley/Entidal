@@ -19,23 +19,15 @@ p{
 }
 .circle-image{
   height:auto;
-  width:15%;
+  width:70%;
   border-radius: 100%;
   border:1px solid white;
   margin-right: 3%;
   margin-left:3%;
 }
-.imgsizer{
-  display: inline;
-  margin-left:2%;
-  margin-right: 2%;
-}
-.slogan{
-  position: relative;
-}
 .circle-image-social{
   height:auto;
-  width:5%;
+  width:50%;
   margin-right: 7%;
   margin-left: 7%;
   margin-bottom: 2%;
